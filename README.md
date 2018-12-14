@@ -1,2 +1,0 @@
-# ReactEvaluation
-Created with CodeSandbox
